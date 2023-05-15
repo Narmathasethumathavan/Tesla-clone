@@ -3,6 +3,7 @@ import React from 'react';
 
 const ModelSImage = () =>
 	<div>
+		<div className="modelS"><h2>ModelS</h2></div>
 		<img
 			src="https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Model-S-Main-Hero-Desktop-LHD"
 			alt="fs"
